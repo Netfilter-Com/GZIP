@@ -3,9 +3,9 @@ Pod::Spec.new do |s|
   s.version      = '1.0.3'
   s.license      = 'zlib'
   s.summary      = 'GZIP is category on NSData that provides simple gzip compression and decompression functionality.'
-  s.homepage     = 'https://github.com/nicklockwood/GZIP'
+  s.homepage     = 'https:////github.com/Netfilter-Com/GZIP'
   s.author       = { "Nick Lockwood" => "support@charcoaldesign.co.uk" }
-  s.source       = { :git => "https://github.com/nicklockwood/GZIP.git", :tag => "1.0.3" }
+  s.source       = { :git => "https://github.com/Netfilter-Com/GZIP.git", :tag => "1.0.3" }
   s.source_files = 'GZIP'
   s.library      = 'z'
   s.requires_arc = false
